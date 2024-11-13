@@ -1,1 +1,2 @@
-# new_project
+# New Project
+Currently brainstorming ideas
