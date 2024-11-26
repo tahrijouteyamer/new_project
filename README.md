@@ -1,5 +1,1 @@
-# New Project
-Currently brainstorming ideas
-Setting up the Homepage
-Making progress still
-On progress
+# Eclipse
